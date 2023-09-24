@@ -29,12 +29,12 @@ Aspiring Web Developer who's passionate about crafting modern and user-friendly 
   ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
   ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
-## 💼 What I Do
+<!-- ## 💼 What I Do
 
 - Designing and developing responsive and intuitive user interfaces.
 - Implementing backend systems for seamless application functionality.
 - Collaborating with teams to plan and execute projects efficiently.
-- Managing databases, ensuring data integrity, and implementing efficient queries.
+- Managing databases, ensuring data integrity, and implementing efficient queries. -->
 
 ## 📫 Let's Connect
 - Facebook: Ruy Encio Embiado
