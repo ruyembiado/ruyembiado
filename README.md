@@ -17,11 +17,11 @@ Aspiring Web Developer who's passionate about crafting modern and user-friendly 
 - Backend: 
   ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
   ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-  ![REST API](https://img.shields.io/badge/REST_API-0096D5?style=for-the-badge)
+ <-- ![REST API](https://img.shields.io/badge/REST_API-0096D5?style=for-the-badge) -->
   <!--![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white) -->
     
 - Database: 
-  ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+ <-- ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white) -->
   ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
   
 - Tools: 
