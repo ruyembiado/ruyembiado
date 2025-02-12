@@ -21,8 +21,7 @@ Aspiring Web Developer who's passionate about crafting modern and user-friendly 
   <!--![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white) -->
 
 - Mobile Application:
-  ![React Native]([https://img.shields.io/badge/React%20Native-0.73.0-blue?logo=react](https://img.shields.io/badge/React%20Native-0.73.0-61DAFB?style=for-the-badge&logo=react&logoColor=white
-))
+  ![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=white)
   <!-- ![Expo](https://img.shields.io/badge/Expo-49.0.0-lightblue?logo=expo) -->
     
 - Database: 
