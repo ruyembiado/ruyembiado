@@ -1,7 +1,12 @@
 # Hi there! 👋 I'm Ruy Encio Embiado 
 ![Profile Views](https://komarev.com/ghpvc/?username=ruyembiado)
 
-**Emerging Full-Stack Developer** passionate about building modern, user-centric digital experiences. 🚀 I thrive on transforming ideas into functional applications through clean, efficient code and thoughtful problem-solving.
+**Emerging Full-Stack Developer** building practical digital solutions:
+✓ Custom web applications & business systems
+✓ Modern responsive websites
+✓ Cross-platform mobile apps
+
+I bridge ideas and execution through structured code and user-focused design.
 
 ## 💻 Tech Stack and Tools
 
