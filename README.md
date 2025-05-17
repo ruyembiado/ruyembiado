@@ -6,7 +6,7 @@
 ✓ **Modern responsive websites** (HTML/CSS/JavaScript/WordPress)  
 ✓ **Cross-platform mobile apps** (React Native)  
 
-I bridge ideas and execution through structured code and user-focused design.
+*Where business needs meet technical solutions* →  
 
 ## 💻 Tech Stack and Tools
 
