@@ -6,7 +6,7 @@
 ✓ **Modern responsive websites** (HTML/CSS/JavaScript/WordPress)  
 ✓ **Mobile apps** (React Native)  
 
-Where business needs meet technical solutions →  
+Where business needs meet technical solutions 
 
 ## 💻 Tech Stack and Tools
 
