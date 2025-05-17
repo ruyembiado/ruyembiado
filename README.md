@@ -1,23 +1,18 @@
-# Hi there! 👋 I'm Ruy Embiado 
+# Hi there! 👋 I'm Ruy Encio Embiado 
 ![Profile Views](https://komarev.com/ghpvc/?username=ruyembiado)
 
 **Emerging Full-Stack Developer** passionate about building modern, user-centric digital experiences. 🚀 I thrive on transforming ideas into functional applications through clean, efficient code and thoughtful problem-solving.
 
-## 💻 Core Competencies
+## 💻 Tech Stack and Tools
 
-**Web Development:**
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-
-**Mobile & CMS:**
 ![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=white)
 ![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
 ![Elementor](https://img.shields.io/badge/Elementor-9146FF?style=for-the-badge&logo=elementor&logoColor=white)
-
-**Tools & Utilities:**
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
