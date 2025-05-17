@@ -3,7 +3,7 @@
 
 Aspiring Web Developer who's passionate about crafting modern and user-friendly web applications. 🚀 I love turning ideas into reality and enjoy the challenge of creating clean, efficient, and beautiful code.
 
-## 🛠️ Tech Stack
+## 🛠️ Technologies & Tools
 
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
