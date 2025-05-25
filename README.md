@@ -3,7 +3,7 @@
 
 **Emerging Full-Stack Developer** building practical digital solutions:  
 ✓ **Custom web applications & business systems** (Laravel/PHP/MySQL)  
-✓ **Modern responsive websites** (HTML/CSS/JavaScript/WordPress)  
+✓ **Modern responsive websites** (HTML/CSS/JavaScript/WordPress/Laravel/Bootstrap)  
 ✓ **Mobile apps** (React Native)  
 
 Where business needs meet technical solutions 
