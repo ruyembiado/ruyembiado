@@ -1,8 +1,8 @@
 # Hi there! 👋 I'm Ruy Encio Embiado 
 
 **Emerging Full-Stack Developer** building practical digital solutions:  
-✓ **Custom web applications & business systems** 
-✓ **Modern responsive websites** 
+✓ **Custom web applications & business systems**  
+✓ **Modern responsive websites**  
 ✓ **Mobile apps**  
 
 Where business needs meet technical solutions.
